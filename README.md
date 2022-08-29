@@ -1,4 +1,4 @@
-### Hi, I'm Brian. 👋
+## Hi, I'm Brian. 👋
 
 I'm a second-year undergraduate student at MIT, majoring in Computer Science (6-4) and Mathematics (18). My interests lie mainly in Machine Learning, particularly in Computer Vision and Decision Making. I also have extensive experience with penetration testing and network security. 
 
