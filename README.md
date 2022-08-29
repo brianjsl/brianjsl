@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋, I'm Brian. 
 
-<!--
-**brianjsl/brianjsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year undergraduate student at MIT, majoring in Computer Science (6-4) and Mathematics (18). My interests lie mainly in Machine Learning, particularly in Computer Vision and Decision Making. I also have extensive experience with penetration testing and network security. Feel free to connect with me here:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-brianjsl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/brian-lee-%EC%9D%B4%EC%A7%80%EC%83%81-70a3111ab/))](https://www.linkedin.com/in/brian-lee-%EC%9D%B4%EC%A7%80%EC%83%81-70a3111ab/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+* Undergraduate Researcher at the MIT CSAIL [Scene Representation Group](https://www.scenerepresentations.org/) (2022-Present)
+
+## Previously
+* Research Intern at [Sensebrain Technology](https://www.sensebrain.ai/) (2022) developing Computational Bokeh effects for Smartphone Cameras using Lightfield Sensors and Neural Network Models
+* Co-founded [Everaise Academy](https://www.everaise.org/) (2020-2021) developing free, accessible educational resources for hundreds of high-achieving students worldwide.
+* First Place at [Tartanhacks 2022](https://www.tartanhacks.com/), CMU's largest hackathon, for [Senseface](https://github.com/gtangg12/SenseFace), a novel AI pipeline that generates missing faces using textual descriptions and image sketches.
+
+## Skills
+* **Languages** Python, C/C++, Rust, HTML/CSS, Javascript, RISC-V, Bash, Cisco IOS
+* **Frameworks** Pytorch/Pytorch Lightning, OpenCV (Python/C++), Tensorflow/TFLite, Scikit-Learn, Numpy, Pandas, CuPY, React.js, Node.js, Flask, React Native, MongoDB
+* **Developer Tools** Linux (Arch/Ubuntu/CentOS/Kali), Windows Server, Git, AWS, Docker, Firebase, VSCode
