@@ -1,6 +1,6 @@
 ## Hi, I'm Brian. 👋
 
-I'm a second-year undergraduate student at MIT, majoring in Computer Science (6-4) and Mathematics (18). My interests lie mainly in Machine Learning, particularly in Computer Vision and Decision Making. I also have extensive experience with penetration testing and network security. 
+I'm a second-year undergraduate student at MIT (currently on leave), majoring in Computer Science (6-4) and Mathematics (18). My interests lie mainly in Machine Learning, particularly in Computer Vision and Decision Making. I also have extensive experience with penetration testing and network security. 
 
 ## Currently
 * Undergraduate Researcher at the MIT CSAIL [Scene Representation Group](https://www.scenerepresentations.org/) (2022-Present)
