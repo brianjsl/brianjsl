@@ -1,19 +1,17 @@
 ## Hi, I'm Brian. 👋
 
-I'm a second-year undergraduate student at MIT (currently on leave), majoring in Computer Science (6-4) and Mathematics (18). My interests lie mainly in Machine Learning, particularly in Computer Vision and Decision Making. I also have extensive experience with penetration testing and network security. 
-
-## Currently
-* Undergraduate Researcher at the MIT CSAIL [Scene Representation Group](https://www.scenerepresentations.org/) (2022-Present)
+I'm an undergraduate student at MIT (currently on leave), majoring in Computer Science (6-4) and Mathematics (18). My interests lie mainly in Machine Learning, particularly in Computer Vision and Decision Making. I also have extensive experience with penetration testing and network security. 
 
 ## Previously
+* Undergraduate Researcher at the MIT CSAIL [Scene Representation Group](https://www.scenerepresentations.org/) (2022)
 * Research Intern at [Sensebrain Technology](https://www.sensebrain.ai/) (2022) developing Computational Bokeh effects for Smartphone Cameras using Lightfield Sensors and Neural Network Models
 * Co-founded [Everaise Academy](https://www.everaise.org/) (2020-2021) developing free, accessible educational resources for hundreds of high-achieving students worldwide.
 * First Place at [Tartanhacks 2022](https://www.tartanhacks.com/), CMU's largest hackathon, for [Senseface](https://github.com/gtangg12/SenseFace), a novel AI pipeline that generates missing faces using textual descriptions and image sketches.
 
 ## Skills
-* **Languages** Python, C/C++, Rust, HTML/CSS, Javascript, RISC-V, Bash, Cisco IOS
+* **Languages** Python, C/C++, Rust, HTML/CSS, Javascript, RISC-V
 * **Frameworks** Pytorch/Pytorch Lightning, OpenCV (Python/C++), Tensorflow/TFLite, Scikit-Learn, Numpy, Pandas, CuPY, React.js, Node.js, Flask, React Native, MongoDB
-* **Developer Tools** Linux (Arch/Ubuntu/CentOS/Kali), Windows Server, Git, AWS, Docker, Firebase, VSCode
+* **Developer Tools** Linux (Arch/Ubuntu/CentOS/Kali), Windows Server, Git, AWS, Docker, Firebase, VSCode, Bash, Cisco IOS
 
 Feel free to reach out to me here:
 
