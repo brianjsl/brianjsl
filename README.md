@@ -2,6 +2,9 @@
 
 I'm an undergraduate student at MIT (currently on leave), majoring in Computer Science (6-4) and Mathematics (18). My interests lie mainly in Machine Learning, particularly in Computer Vision and Decision Making. I also have extensive experience with penetration testing and network security. 
 
+## Currently
+* Cybersecurity at The Republic of Korea (ROK) Army
+
 ## Previously
 * Undergraduate Researcher at the MIT CSAIL [Scene Representation Group](https://www.scenerepresentations.org/) (2022)
 * Research Intern at [Sensebrain Technology](https://www.sensebrain.ai/) (2022) developing Computational Bokeh effects for Smartphone Cameras using Lightfield Sensors and Neural Network Models
@@ -11,7 +14,7 @@ I'm an undergraduate student at MIT (currently on leave), majoring in Computer S
 ## Skills
 * **Languages** Python, C/C++, Rust, HTML/CSS, Javascript, RISC-V
 * **Frameworks** Pytorch/Pytorch Lightning, OpenCV (Python/C++), Tensorflow/TFLite, Scikit-Learn, Numpy, Pandas, CuPY, React.js, Node.js, Flask, React Native, MongoDB
-* **Developer Tools** Linux (Arch/Ubuntu/CentOS/Kali), Windows Server, Git, AWS, Docker, Firebase, VSCode, Bash, Cisco IOS
+* **Developer Tools** Linux, Windows Server, Git, AWS, Docker, Firebase, VSCode, Bash, Cisco IOS
 
 Feel free to reach out to me here:
 
