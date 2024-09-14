@@ -1,6 +1,6 @@
 ## Hi, I'm Brian. 👋
 
-I'm an undergraduate student at MIT, majoring in Computer Science (6-4) and Mathematics (18). My interests lie mainly in Machine Learning, particularly in Computer Vision and Decision Making. 
+I'm an undergraduate student at MIT, majoring in Computer Science (6-4).
 
 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-brianjsl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/brian-lee-%EC%9D%B4%EC%A7%80%EC%83%81-70a3111ab/))](https://www.linkedin.com/in/brian-lee-%EC%9D%B4%EC%A7%80%EC%83%81-70a3111ab/)
